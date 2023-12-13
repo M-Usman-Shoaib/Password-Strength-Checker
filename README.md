@@ -9,3 +9,4 @@ Key Features:
 4. **User Warning:** If the password length exceeds 15 characters, a warning message is displayed, discouraging excessively long passwords for better memorability.
 
 The GUI utilizes themes and styling for an aesthetically pleasing look. Additionally, the window opens in full-screen mode upon launching the program, providing a comprehensive and immersive user experience. Overall, this Password Strength Checker GUI serves as a handy tool for users to enhance the security of their passwords and create robust, memorable passphrases.
+![image](https://github.com/M-Usman-Shoaib/Password-Strength-Checker/assets/134754067/bc389d75-5849-44e2-83c1-b8d95382e92e)
